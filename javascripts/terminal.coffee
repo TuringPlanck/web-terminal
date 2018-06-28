@@ -1,4 +1,10 @@
-# © 2015 Logan Martel
+###
+@license GNU General Public License v2.0, https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+@version 0.1.0
+@author  Logan Martel, https://github.com/martelogan
+@updated 2018-06-28
+@link    https://github.com/martelogan/web-terminal
+###
 # Extensible class for terminal emulator in web application
 class Terminal
 	constructor:\
